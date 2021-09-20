@@ -308,6 +308,8 @@
   flex-wrap: wrap;
   justify-content: space-between;
   margin-bottom: 50px;
+  padding-top: 20px;
+  padding: 20px;
 }
 
 .profile-image{
